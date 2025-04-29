@@ -1,6 +1,6 @@
 // src/pages/Home.tsx
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
 
 const Home: React.FC = () => {
   return (
@@ -16,7 +16,7 @@ const Home: React.FC = () => {
         Go to Login
       </Link>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
